@@ -15,10 +15,7 @@ OpenCEM（Open Cat Ear Move）是一个开源可动猫耳系统。
 - VRChat交互
 
 让猫娘的情绪和动作，可以通过现实中的猫耳表现出来。
-
 OpenCEM 致力于打造一个开放、可扩展的猫耳硬件平台。
-
----
 
 ## ✨ Features / 特性
 
@@ -32,14 +29,5 @@ OpenCEM 致力于打造一个开放、可扩展的猫耳硬件平台。
 - 电池供电
 - 便携穿戴
 
-🎮 **VRChat Integration**
-- 支持虚拟世界交互
-
-🔧 **Open Hardware**
-- 开源PCB
-- 开源固件
-- 开源结构
-
----
 
 ## 🏗 Architecture / 系统架构
