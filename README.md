@@ -1,18 +1,12 @@
 # 🐱 OpenCEM
 ## Open Cat Ear Move
 
-> 让现实中的猫娘，也拥有灵动的猫耳朵。
+> 让现实中的猫娘，也拥有灵动的耳朵！成为香香软软可爱的猫猫！
 >
-> Bringing moving cat ears from the virtual world into reality.
+> Bringing moving cat ears from the virtual world into reality！to be very cute cat！
 
 ## 🌟 Introduction / 项目介绍
 OpenCEM（Open Cat Ear Move）是一个开源可动猫耳系统。
-
-它结合：
-- 嵌入式控制
-- 自制PCB
-- 机械结构设计
-- VRChat交互
 
 让猫娘的情绪和动作，可以通过现实中的猫耳表现出来。
 OpenCEM 致力于打造一个开放、可扩展的猫耳硬件平台。
